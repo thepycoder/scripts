@@ -1,0 +1,149 @@
+"date_time","date_time_formatted","type","value_type","raw_value","display_value","important","notes"
+"1666721479438","25 Oct 2022 21:11","QR_CODE","URL","https://porter.co.il/menus/#%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%95%D7%AA","https://porter.co.il/menus/#%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%95%D7%AA","0",""
+"1666707036410","25 Oct 2022 17:10","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Slabaugh;Greg
+ORG:Queen Mary University of London
+TITLE:Professor and Director of the Digital Environment Research Institute
+EMAIL:g.slabaugh@qmul.ac.uk
+TEL;TYPE=voice:447948308316
+END:VCARD","Greg Slabaugh","0","Professor Queen Mary interested in using clearml for research. Share the large cluster "
+"1666705296792","25 Oct 2022 16:41","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Becattini;Federico
+ORG:University of Florence
+EMAIL:federico.becattini@unifi.it
+TEL;TYPE=voice:393467256729
+END:VCARD","Federico Becattini","0","Professor interested in using it for managing students"
+"1666704467644","25 Oct 2022 16:27","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Greenberg;Lior
+ORG:MyHeritage
+TITLE:ML Engineer
+EMAIL:lior.greenberg@myheritage.com
+TEL;TYPE=voice:972525259639
+END:VCARD","Lior Greenberg","0","Friction with pipelines
+
+Didn't find option to ignore requitements
+
+If they change the docker version, cajce is not busted"
+"1666704208717","25 Oct 2022 16:23","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Mitchell;Nicholas
+ORG:Argo AI
+EMAIL:nickmitchell7@gmail.com
+TEL;TYPE=voice:4917643835163
+END:VCARD","Nicholas Mitchell","0",""
+"1666698873645","25 Oct 2022 14:54","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Shmilovici;Armin
+ORG:Ben-Gurion University
+TITLE:Researcher-Lecturer
+EMAIL:armin@bgu.ac.il
+TEL;TYPE=voice:086477550
+END:VCARD","Armin Shmilovici","0","Professor looking for a tool for his students. Dept data science"
+"1666696499400","25 Oct 2022 14:14","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Oh;Seong Joon
+ORG:University of Tuebingen
+TITLE:Professor
+EMAIL:coallaoh@gmail.com
+TEL;TYPE=voice:4916096892064
+END:VCARD","Seong Joon Oh","0","Professor, wants his students to use this"
+"1666693105060","25 Oct 2022 13:18","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Avraham;Elior
+ORG:MyHeritage
+TITLE:ML Engineer
+EMAIL:elior.avraham@myheritage.com
+TEL;TYPE=voice:972546976976
+END:VCARD","Elior Avraham","0","Same as lior"
+"1666692920992","25 Oct 2022 13:15","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Greenberg;Lior
+ORG:MyHeritage
+TITLE:ML Engineer
+EMAIL:itay.cohen@myheritage.com
+TEL;TYPE=voice:972525259639
+END:VCARD","Lior Greenberg","0","lior.greenberg@myheritage.com
+
+User of clearml but want on demand online preprocessing on hyperdatatsets"
+"1666689376039","25 Oct 2022 12:16","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Almeida;Luiz
+ORG:CPQD
+TITLE:Computer Vision Researcher
+EMAIL:lpita@cpqd.com.br
+TEL;TYPE=voice:5583998581192
+END:VCARD","Luiz Almeida","0","Just interested sultudent"
+"1666686451078","25 Oct 2022 11:27","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Serebro;Doron
+ORG:Wisense Technologies Ltd
+EMAIL:moran@wisense.tech
+TEL;TYPE=voice:972545556237
+END:VCARD","Doron Serebro","0","Feature request: git independent local. Run an agent without git at all. Dedicated machine already has that"
+"1666684923966","25 Oct 2022 11:02","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Capalija;Ivan
+ORG:Microblink, HR21173725829 
+EMAIL:ivan.capalija@microblink.com
+TEL;TYPE=voice:385989056097
+END:VCARD","Ivan Capalija","0","Croatia company super into clearml and want Hyperdatasets! "
+"1666683312061","25 Oct 2022 10:35","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Upadhyay;Richa
+ORG:Lulea University of Technology, Sweden
+TITLE:Ph.D. Student
+EMAIL:richa.upadhyay@ltu.se
+TEL;TYPE=voice:46765923317
+END:VCARD","Richa Upadhyay","0","Interested in orchestration"
+"1666679708079","25 Oct 2022 09:35","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Bessermann;Julie
+ORG:ClearML
+TITLE:Sales Development
+EMAIL:julie.bessermann@clear.ml
+TEL;TYPE=voice:972549225481
+END:VCARD","Julie Bessermann","0",""
+"1666595479194","24 Oct 2022 10:11","QR_CODE","URL","https://play.google.com/store/apps/details?id=com.fsm.telofun","https://play.google.com/store/apps/details?id=com.fsm.telofun","0",""
+"1660676957595","16 Aug 2022 22:09","QR_CODE","URL","www.menucards.cc/CafeDenBokser","www.menucards.cc/CafeDenBokser","0",""
+"1660540400752","15 Aug 2022 08:13","QR_CODE","URL","https://www.sharedrop.io/rooms/e8df30a0-1d56-48ef-a7b7-6a8206a79976","https://www.sharedrop.io/rooms/e8df30a0-1d56-48ef-a7b7-6a8206a79976","0",""
+"1655998272860","23 Jun 2022 18:31","QR_CODE","URL","https://github.com/neuralmagic","https://github.com/neuralmagic","0",""
+"1655934122932","23 Jun 2022 00:42","QR_CODE","URL","https://www.linkedin.com/in/ahsenkhaliq?fromQR=1","https://www.linkedin.com/in/ahsenkhaliq?fromQR=1","0",""
+"1655833008735","21 Jun 2022 20:36","QR_CODE","URL","https://www.linkedin.com/in/yu-crystal-wang?fromQR=1","https://www.linkedin.com/in/yu-crystal-wang?fromQR=1","0",""
+"1655832995736","21 Jun 2022 20:36","UPC_E","PRODUCT","12891474","12891474","0",""
+"1655788253951","21 Jun 2022 08:10","QR_CODE","URL","https://getstreaming.tv/#code=620601137","https://getstreaming.tv/#code=620601137","0",""
+"1655580846691","18 Jun 2022 22:34","QR_CODE","URL","https://m.od.live/QCh4GqU","https://m.od.live/QCh4GqU","0",""
+"1655554904627","18 Jun 2022 15:21","QR_CODE","URL","https://qrcode.seeker.io/code/llkJWG3Hx","https://qrcode.seeker.io/code/llkJWG3Hx","0",""
+"1655470517034","17 Jun 2022 15:55","QR_CODE","URL","https://pay.wagamama.com/","https://pay.wagamama.com/","0",""
+"1654853551152","10 Jun 2022 12:32","QR_CODE","URL","http://8.mobiletag.com/?id=187166","http://8.mobiletag.com/?id=187166","0",""
+"1654425931894","5 Jun 2022 13:45","QR_CODE","URL","https://ifluxsampling.com/en/nerdland-festival-iflux","https://ifluxsampling.com/en/nerdland-festival-iflux","0",""
+"1654250270102","3 Jun 2022 12:57","QR_CODE","URL","https://ml6-photobooth-landing-page.web.app/result/210eae98-eb2e-4020-bbb1-4b2c9e260342","https://ml6-photobooth-landing-page.web.app/result/210eae98-eb2e-4020-bbb1-4b2c9e260342","0",""
+"1650130120753","16 Apr 2022 20:28","QR_CODE","URL","https://youtu.be/MmZLcM6d8oY","https://youtu.be/MmZLcM6d8oY","0",""
+"1650130116297","16 Apr 2022 20:28","DATA_MATRIX","TEXT","0203719100000010591529920000001537","0203719100000010591529920000001537","0",""
+"1650129962317","16 Apr 2022 20:26","QR_CODE","URL","https://www.hellofresh.nl/pages/receptbeoordeling","https://www.hellofresh.nl/pages/receptbeoordeling","0",""
+"1648551540977","29 Mar 2022 13:59","QR_CODE","URL","https://tinyurl.com/276rkun7","https://tinyurl.com/276rkun7","0",""
+"1647155976111","13 Mar 2022 09:19","QR_CODE","WIFI","WIFI:S:S o n c k;T:WPA;P:BzMg*BNcGAJEAVNY8Q_A;H:true;;","S o n c k BzMg*BNcGAJEAVNY8Q_A","0",""
+"1647025596367","11 Mar 2022 21:06","QR_CODE","URL","http://app.jamezz.nl/qr/A11960059","http://app.jamezz.nl/qr/A11960059","0",""
+"1644838838413","14 Feb 2022 13:40","QR_CODE","URL","https://app.messageorganizer.com/lp/6373_BruggerAlm_6RVEaR?table=Bruggeralm+Terrasse+0","https://app.messageorganizer.com/lp/6373_BruggerAlm_6RVEaR?table=Bruggeralm+Terrasse+0","0",""
+"1643737741212","1 Feb 2022 19:49","QR_CODE","URL","https://ptag-info.ikea.com/?ct=sto&cc=169&in=90469021&it=SCO&t=p45&s=q","https://ptag-info.ikea.com/?ct=sto&cc=169&in=90469021&it=SCO&t=p45&s=q","0",""
+"1637427947310","20 Nov 2021 19:05","QR_CODE","URL","https://me-qr.com/1582186","https://me-qr.com/1582186","0",""
+"1636806733331","13 Nov 2021 14:32","QR_CODE","URL","https://public.car-pass.be/verify/8007-7713-3929","https://public.car-pass.be/verify/8007-7713-3929","0",""
+"1634907782299","22 Oct 2021 16:03","QR_CODE","URL","https://s.truqu.com/V4Y6sg","https://s.truqu.com/V4Y6sg","0",""
+"1632838378178","28 Sep 2021 17:12","QR_CODE","URL","https://hardware.internal.ml6.eu/","https://hardware.internal.ml6.eu/","0",""
+"1632219255991","21 Sep 2021 13:14","QR_CODE","URL","http://www.my-lio.eu/apps/healthbox-3-0","http://www.my-lio.eu/apps/healthbox-3-0","0",""
+"1631360507995","11 Sep 2021 14:41","QR_CODE","URL","https://nordlandsatlas.maps.arcgis.com/apps/webappviewer/index.html?id=fab455cbf6e8441894efd4ccc99a0b8f","https://nordlandsatlas.maps.arcgis.com/apps/webappviewer/index.html?id=fab455cbf6e8441894efd4ccc99a0b8f","0",""
+"1631360434234","11 Sep 2021 14:40","QR_CODE","URL","https://moskenes.kommune.no/reinebringen-donasjon/","https://moskenes.kommune.no/reinebringen-donasjon/","0",""
+"1631117016363","8 Sep 2021 19:03","QR_CODE","URL","https://reg.entrynorway.no/","https://reg.entrynorway.no/","0",""
+"1630409145642","31 Aug 2021 14:25","QR_CODE","URL","http://e.tuya.com/smartlife","http://e.tuya.com/smartlife","0",""
+"1629650916046","22 Aug 2021 19:48","QR_CODE","URL","http://app.jamezz.nl/qr/A11960053","http://app.jamezz.nl/qr/A11960053","0",""
+"1629645281163","22 Aug 2021 18:14","QR_CODE","URL","http://app.jamezz.nl/qr/A11960064","http://app.jamezz.nl/qr/A11960064","0",""
+"1629636003700","22 Aug 2021 15:40","QR_CODE","URL","http://app.jamezz.nl/qr/A303504","http://app.jamezz.nl/qr/A303504","0",""
+"1629310986443","18 Aug 2021 21:23","QR_CODE","URL","https://www.trolmenu.be/index.html","https://www.trolmenu.be/index.html","0",""
+"1628951077082","14 Aug 2021 17:24","QR_CODE","URL","https://yoordi.app/checkin/2019764917159911?twint=02:1848355c9f76428daaff4e6c8938bb29#8ef022c8c910ccc8787cfa5effe82e6048089114#2019764917159911","https://yoordi.app/checkin/2019764917159911?twint=02:1848355c9f76428daaff4e6c8938bb29#8ef022c8c910ccc8787cfa5effe82e6048089114#2019764917159911","0",""
+"1628950668403","14 Aug 2021 17:17","QR_CODE","URL","02:05a48b31-a436-40a8-bfb3-2552b451bbee:#b9cd182e07fc550eb164559c869c37102bb5769e#12273","02:05a48b31-a436-40a8-bfb3-2552b451bbee:#b9cd182e07fc550eb164559c869c37102bb5769e#12273","0",""
+"1628950573002","14 Aug 2021 17:16","QR_CODE","EMAIL","MATMSG:TO:stadtgaertnerei@stadtluzern.ch;SUB:Grünanlage Churchillquai;BODY:;;","stadtgaertnerei@stadtluzern.ch","0",""
+"1628604730290","10 Aug 2021 17:12","QR_CODE","URL","https://youtu.be/iBSVRgOOe_Y
+","https://youtu.be/iBSVRgOOe_Y","0",""
+"1628604479721","10 Aug 2021 17:07","QR_CODE","URL","https://www.youtube.com/watch?v=MtPFspD-VwM&list=PLg2dFdDRRClExD7HdQH2Zk5JiOoHGbKOP&index=2","https://www.youtube.com/watch?v=MtPFspD-VwM&list=PLg2dFdDRRClExD7HdQH2Zk5JiOoHGbKOP&index=2","0",""

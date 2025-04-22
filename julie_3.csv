@@ -1,0 +1,24 @@
+First Name,Family Name,email,Company Name,Title,Notes
+Diana,Shaposhnik,diana.shaposhnik1@gmail.com,Qualcomm,Algorithms Engineer,Engineer interested in open source
+Ashery,Mbilinyi,ashery.mbilinyi@unibas.ch,University of Basel,Ph.D Student,PhD student interested in medical imaging
+Julia,Grabinski,julia.grabinski@itwm.fraunhofer.de,ITWM Fraunhofer,,Just started using expman
+Eric,Landau,eric@encord.com,Encord,Co-Founder,Labeling company looking for integration based on customer request
+Lior,Rachmani,liorachmani@gmail.com,IDF,Developer,Interested in using expman
+Yoav,Lebendiker,yoav1994@gmail.com,Applied Materials,,"Clients of us
+Size of metadata in Hyperdatasets is too small
+
+When using HPO and timeout is smaller than epoch length, it crashes because it tries to get
+
+Enum task connect doesn't work
+
+Plotly log axis
+
+"
+Sean,Hadar,roni.gliksman@mobileye.com,Mobileye,Algorithm Developer,Mobileye
+Lital,Dabush,roi.shaag@mobileye.com,Mobileye,Algorithm Developer,Algo team
+Dan,Eshel,roy.sheffer@mobileye.com,Mobileye,Algorithm Developer,Ml engineer algo team
+Inbal,Rimon,inbalri@post.bgu.ac.il,Ben Gurion University,,Reporting: have some sort integration with presentation when working on reportong
+Rivka,Emanuel,Sapir.kaplan@samsung.com,SIRC,Algorithm Engineer,Better data oriented image vis comparison
+Ophir,Sarusi,Ariel.Orfaig@samsung.com,Samsung,Algorithm Leading Eng,"Add slider in small preview debug samples
+
+ophir. sarusi@samsung.com"

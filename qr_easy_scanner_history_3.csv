@@ -1,0 +1,347 @@
+"date_time","date_time_formatted","type","value_type","raw_value","display_value","important","notes"
+"1666871897073","27 Oct 2022 13:58","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Shaposhnik;Diana
+ORG:Qualcomm
+TITLE:Algorithms Engineer
+EMAIL:diana.shaposhnik1@gmail.com
+TEL;TYPE=voice:972544712314
+END:VCARD","Diana Shaposhnik","0","Engineer interested in open source"
+"1666870542322","27 Oct 2022 13:35","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Mbilinyi;Ashery
+ORG:University of Basel
+TITLE:Ph.D Student
+EMAIL:ashery.mbilinyi@unibas.ch
+TEL;TYPE=voice:41797184677
+END:VCARD","Ashery Mbilinyi","0","PhD student interested in medical imaging"
+"1666869878000","27 Oct 2022 13:24","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Grabinski;Julia
+ORG:ITWM Fraunhofer
+EMAIL:julia.grabinski@itwm.fraunhofer.de
+TEL;TYPE=voice:4915789616128
+END:VCARD","Julia Grabinski","0","Just started using expman"
+"1666869684154","27 Oct 2022 13:21","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Landau;Eric
+ORG:Encord
+TITLE:Co-Founder
+EMAIL:eric@encord.com
+TEL;TYPE=voice:447453582855
+END:VCARD","Eric Landau","0","Labeling company looking for integration based on customer request"
+"1666861820148","27 Oct 2022 11:10","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Rachmani;Lior
+ORG:IDF
+TITLE:Developer
+EMAIL:liorachmani@gmail.com
+TEL;TYPE=voice:972544453454
+END:VCARD","Lior Rachmani","0","Interested in using expman"
+"1666860303668","27 Oct 2022 10:45","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Lebendiker;Yoav
+ORG:Applied Materials
+EMAIL:yoav1994@gmail.com
+TEL;TYPE=voice:972526230517
+END:VCARD","Yoav Lebendiker","0","Clients of us
+Size of metadata in Hyperdatasets is too small
+
+When using HPO and timeout is smaller than epoch length, it crashes because it tries to get
+
+Enum task connect doesn't work
+
+Plotly log axis
+
+"
+"1666859703793","27 Oct 2022 10:35","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Hadar;Sean
+ORG:Mobileye
+TITLE:Algorithm Developer
+EMAIL:roni.gliksman@mobileye.com
+TEL;TYPE=voice:972527588343
+END:VCARD","Sean Hadar","0","Mobileye"
+"1666859695378","27 Oct 2022 10:34","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Dabush;Lital
+ORG:Mobileye
+TITLE:Algorithm Developer
+EMAIL:roi.shaag@mobileye.com
+TEL;TYPE=voice:972503346338
+END:VCARD","Lital Dabush","0","Algo team"
+"1666859672477","27 Oct 2022 10:34","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Eshel;Dan
+ORG:Mobileye
+TITLE:Algorithm Developer
+EMAIL:roy.sheffer@mobileye.com
+TEL;TYPE=voice:972535407541
+END:VCARD","Dan Eshel","0","Ml engineer algo team"
+"1666858252189","27 Oct 2022 10:10","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Rimon;Inbal
+ORG:Ben Gurion University
+EMAIL:inbalri@post.bgu.ac.il
+TEL;TYPE=voice:972525909476
+END:VCARD","Inbal Rimon","0","Reporting: have some sort integration with presentation when working on reportong"
+"1666856876173","27 Oct 2022 09:47","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Emanuel;Rivka
+ORG:SIRC
+TITLE:Algorithm Engineer
+EMAIL:Sapir.kaplan@samsung.com
+TEL;TYPE=voice:972506793384
+END:VCARD","Rivka Emanuel","0","Better data oriented image vis comparison"
+"1666856633117","27 Oct 2022 09:43","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Sarusi;Ophir
+ORG:Samsung
+TITLE:Algorithm Leading Eng
+EMAIL:Ariel.Orfaig@samsung.com
+TEL;TYPE=voice:972525285289
+END:VCARD","Ophir Sarusi","0","Add slider in small preview debug samples
+
+ophir. sarusi@samsung.com"
+"1666851180582","27 Oct 2022 08:13","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Finkelstein;Ofek
+ORG:Ben Gurion University of The Negev
+EMAIL:ofek01001@gmail.com
+TEL;TYPE=voice:972524718807
+END:VCARD","Ofek Finkelstein","0","Student interested in using the open source"
+"1666848561892","27 Oct 2022 07:29","QR_CODE","URL","https://armastuschen.github.io/projects/NPP_Net/","https://armastuschen.github.io/projects/NPP_Net/","0",""
+"1666795515635","26 Oct 2022 16:45","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Naik Karmali;Tejan Naresh
+ORG:Google 
+TITLE:Pre-Doctoral Researcher
+EMAIL:tejankarmali@google.com
+TEL;TYPE=voice:919623307457
+END:VCARD","Tejan Naresh Naik Karmali","0",""
+"1666794266599","26 Oct 2022 16:24","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Sundermeyer;Martin
+ORG:DLR / TUM
+EMAIL:martin.sundermeyer@tum.de
+TEL;TYPE=voice:4915120431625
+END:VCARD","Martin Sundermeyer","0","Optuna as source of truth
+Uses slurm
+Has to try out
+"
+"1666792092678","26 Oct 2022 15:48","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Levy;Ben
+ORG:Nano Dimension 
+TITLE:Researcher
+EMAIL:ben.l@nano-di.com
+TEL;TYPE=voice:972527456996
+END:VCARD","Ben Levy","0","Have the diff of data also on the main view
+
+Don't contact"
+"1666789849363","26 Oct 2022 15:10","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Katz;Liad
+ORG:Jungo
+TITLE:Computer Vision and Deep Learning Team Leader
+EMAIL:Liadk@jungo.com
+TEL;TYPE=voice:972507220448
+END:VCARD","Liad Katz","0","Company that want orchestration and expman. Maybe pro later on, maybe Hyperdatasets later"
+"1666787053870","26 Oct 2022 14:24","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Barzelay;Udi
+ORG:IBM
+TITLE:R&D Manager, IBM Research AI
+EMAIL:udib@il.ibm.com
+TEL;TYPE=voice:972547757636
+END:VCARD","Udi Barzelay","0","RND manager already uses but wants to upgrade
+Meeting
+Dataset versioning link to experiments
+Say thank you, he praised us in front of potential clients"
+"1666785857556","26 Oct 2022 14:04","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Lev;Adir
+ORG:Autobrains 
+TITLE:R&d Group Manager 
+EMAIL:adir.lev@autobrains.ai
+TEL;TYPE=voice:972547885225
+END:VCARD","Adir Lev","0","Wants A demo"
+"1666784778632","26 Oct 2022 13:46","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Tripathi;Ardhendu Shekhar
+ORG:ETH Zurich
+TITLE:PhD Student
+EMAIL:ardhendu-shekhar.tripathi@vision.ee.ethz.ch
+TEL;TYPE=voice:41767654974
+END:VCARD","Ardhendu Shekhar Tripathi","0","PhD Student graduating. Using the open soirce or pro can pay fornresearch"
+"1666771577719","26 Oct 2022 10:06","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Palazzo;Simone
+ORG:University of Catania
+EMAIL:simone.palazzo@unict.it
+TEL;TYPE=voice:393284516475
+END:VCARD","Simone Palazzo","0","Professors interested in the orchestration component "
+"1666770771347","26 Oct 2022 09:52","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Kaczmarek;Jakub
+ORG:Adam Mickiewicz Uniwesity in Pozna
+TITLE:Frontend Developer
+EMAIL:jakkac5@st.amu.edu.pl
+TEL;TYPE=voice:48604765120
+END:VCARD","Jakub Kaczmarek","0","Student mainly interest just the platform in general"
+"1666770416504","26 Oct 2022 09:46","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Dovesi;Pier Luigi
+ORG:Univrses
+TITLE:Deep Learning Engineer
+EMAIL:pierluigidovesi@gmail.com
+TEL;TYPE=voice:393342010150
+END:VCARD","Pier Luigi Dovesi","0","Student wants custom hpo"
+"1666721479438","25 Oct 2022 20:11","QR_CODE","URL","https://porter.co.il/menus/#%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%95%D7%AA","https://porter.co.il/menus/#%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%95%D7%AA","0",""
+"1666707036410","25 Oct 2022 16:10","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Slabaugh;Greg
+ORG:Queen Mary University of London
+TITLE:Professor and Director of the Digital Environment Research Institute
+EMAIL:g.slabaugh@qmul.ac.uk
+TEL;TYPE=voice:447948308316
+END:VCARD","Greg Slabaugh","0","Professor Queen Mary interested in using clearml for research. Share the large cluster "
+"1666705296792","25 Oct 2022 15:41","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Becattini;Federico
+ORG:University of Florence
+EMAIL:federico.becattini@unifi.it
+TEL;TYPE=voice:393467256729
+END:VCARD","Federico Becattini","0","Professor interested in using it for managing students"
+"1666704467644","25 Oct 2022 15:27","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Greenberg;Lior
+ORG:MyHeritage
+TITLE:ML Engineer
+EMAIL:lior.greenberg@myheritage.com
+TEL;TYPE=voice:972525259639
+END:VCARD","Lior Greenberg","0","Friction with pipelines
+
+Didn't find option to ignore requitements
+
+If they change the docker version, cajce is not busted"
+"1666704208717","25 Oct 2022 15:23","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Mitchell;Nicholas
+ORG:Argo AI
+EMAIL:nickmitchell7@gmail.com
+TEL;TYPE=voice:4917643835163
+END:VCARD","Nicholas Mitchell","0",""
+"1666698873645","25 Oct 2022 13:54","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Shmilovici;Armin
+ORG:Ben-Gurion University
+TITLE:Researcher-Lecturer
+EMAIL:armin@bgu.ac.il
+TEL;TYPE=voice:086477550
+END:VCARD","Armin Shmilovici","0","Professor looking for a tool for his students. Dept data science"
+"1666696499400","25 Oct 2022 13:14","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Oh;Seong Joon
+ORG:University of Tuebingen
+TITLE:Professor
+EMAIL:coallaoh@gmail.com
+TEL;TYPE=voice:4916096892064
+END:VCARD","Seong Joon Oh","0","Professor, wants his students to use this"
+"1666693105060","25 Oct 2022 12:18","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Avraham;Elior
+ORG:MyHeritage
+TITLE:ML Engineer
+EMAIL:elior.avraham@myheritage.com
+TEL;TYPE=voice:972546976976
+END:VCARD","Elior Avraham","0","Same as lior"
+"1666692920992","25 Oct 2022 12:15","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Greenberg;Lior
+ORG:MyHeritage
+TITLE:ML Engineer
+EMAIL:itay.cohen@myheritage.com
+TEL;TYPE=voice:972525259639
+END:VCARD","Lior Greenberg","0","lior.greenberg@myheritage.com
+
+User of clearml but want on demand online preprocessing on hyperdatatsets"
+"1666689376039","25 Oct 2022 11:16","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Almeida;Luiz
+ORG:CPQD
+TITLE:Computer Vision Researcher
+EMAIL:lpita@cpqd.com.br
+TEL;TYPE=voice:5583998581192
+END:VCARD","Luiz Almeida","0","Just interested sultudent"
+"1666686451078","25 Oct 2022 10:27","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Serebro;Doron
+ORG:Wisense Technologies Ltd
+EMAIL:moran@wisense.tech
+TEL;TYPE=voice:972545556237
+END:VCARD","Doron Serebro","0","Feature request: git independent local. Run an agent without git at all. Dedicated machine already has that"
+"1666684923966","25 Oct 2022 10:02","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Capalija;Ivan
+ORG:Microblink, HR21173725829 
+EMAIL:ivan.capalija@microblink.com
+TEL;TYPE=voice:385989056097
+END:VCARD","Ivan Capalija","0","Croatia company super into clearml and want Hyperdatasets! "
+"1666683312061","25 Oct 2022 09:35","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Upadhyay;Richa
+ORG:Lulea University of Technology, Sweden
+TITLE:Ph.D. Student
+EMAIL:richa.upadhyay@ltu.se
+TEL;TYPE=voice:46765923317
+END:VCARD","Richa Upadhyay","0","Interested in orchestration"
+"1666679708079","25 Oct 2022 08:35","QR_CODE","CONTACT_INFO","BEGIN:VCARD
+VERSION:2.0
+N:Bessermann;Julie
+ORG:ClearML
+TITLE:Sales Development
+EMAIL:julie.bessermann@clear.ml
+TEL;TYPE=voice:972549225481
+END:VCARD","Julie Bessermann","0",""
+"1666595479194","24 Oct 2022 09:11","QR_CODE","URL","https://play.google.com/store/apps/details?id=com.fsm.telofun","https://play.google.com/store/apps/details?id=com.fsm.telofun","0",""
+"1660676957595","16 Aug 2022 21:09","QR_CODE","URL","www.menucards.cc/CafeDenBokser","www.menucards.cc/CafeDenBokser","0",""
+"1660540400752","15 Aug 2022 07:13","QR_CODE","URL","https://www.sharedrop.io/rooms/e8df30a0-1d56-48ef-a7b7-6a8206a79976","https://www.sharedrop.io/rooms/e8df30a0-1d56-48ef-a7b7-6a8206a79976","0",""
+"1655998272860","23 Jun 2022 17:31","QR_CODE","URL","https://github.com/neuralmagic","https://github.com/neuralmagic","0",""
+"1655934122932","22 Jun 2022 23:42","QR_CODE","URL","https://www.linkedin.com/in/ahsenkhaliq?fromQR=1","https://www.linkedin.com/in/ahsenkhaliq?fromQR=1","0",""
+"1655833008735","21 Jun 2022 19:36","QR_CODE","URL","https://www.linkedin.com/in/yu-crystal-wang?fromQR=1","https://www.linkedin.com/in/yu-crystal-wang?fromQR=1","0",""
+"1655832995736","21 Jun 2022 19:36","UPC_E","PRODUCT","12891474","12891474","0",""
+"1655788253951","21 Jun 2022 07:10","QR_CODE","URL","https://getstreaming.tv/#code=620601137","https://getstreaming.tv/#code=620601137","0",""
+"1655580846691","18 Jun 2022 21:34","QR_CODE","URL","https://m.od.live/QCh4GqU","https://m.od.live/QCh4GqU","0",""
+"1655554904627","18 Jun 2022 14:21","QR_CODE","URL","https://qrcode.seeker.io/code/llkJWG3Hx","https://qrcode.seeker.io/code/llkJWG3Hx","0",""
+"1655470517034","17 Jun 2022 14:55","QR_CODE","URL","https://pay.wagamama.com/","https://pay.wagamama.com/","0",""
+"1654853551152","10 Jun 2022 11:32","QR_CODE","URL","http://8.mobiletag.com/?id=187166","http://8.mobiletag.com/?id=187166","0",""
+"1654425931894","5 Jun 2022 12:45","QR_CODE","URL","https://ifluxsampling.com/en/nerdland-festival-iflux","https://ifluxsampling.com/en/nerdland-festival-iflux","0",""
+"1654250270102","3 Jun 2022 11:57","QR_CODE","URL","https://ml6-photobooth-landing-page.web.app/result/210eae98-eb2e-4020-bbb1-4b2c9e260342","https://ml6-photobooth-landing-page.web.app/result/210eae98-eb2e-4020-bbb1-4b2c9e260342","0",""
+"1650130120753","16 Apr 2022 19:28","QR_CODE","URL","https://youtu.be/MmZLcM6d8oY","https://youtu.be/MmZLcM6d8oY","0",""
+"1650130116297","16 Apr 2022 19:28","DATA_MATRIX","TEXT","0203719100000010591529920000001537","0203719100000010591529920000001537","0",""
+"1650129962317","16 Apr 2022 19:26","QR_CODE","URL","https://www.hellofresh.nl/pages/receptbeoordeling","https://www.hellofresh.nl/pages/receptbeoordeling","0",""
+"1648551540977","29 Mar 2022 12:59","QR_CODE","URL","https://tinyurl.com/276rkun7","https://tinyurl.com/276rkun7","0",""
+"1647155976111","13 Mar 2022 08:19","QR_CODE","WIFI","WIFI:S:S o n c k;T:WPA;P:BzMg*BNcGAJEAVNY8Q_A;H:true;;","S o n c k BzMg*BNcGAJEAVNY8Q_A","0",""
+"1647025596367","11 Mar 2022 20:06","QR_CODE","URL","http://app.jamezz.nl/qr/A11960059","http://app.jamezz.nl/qr/A11960059","0",""
+"1644838838413","14 Feb 2022 12:40","QR_CODE","URL","https://app.messageorganizer.com/lp/6373_BruggerAlm_6RVEaR?table=Bruggeralm+Terrasse+0","https://app.messageorganizer.com/lp/6373_BruggerAlm_6RVEaR?table=Bruggeralm+Terrasse+0","0",""
+"1643737741212","1 Feb 2022 18:49","QR_CODE","URL","https://ptag-info.ikea.com/?ct=sto&cc=169&in=90469021&it=SCO&t=p45&s=q","https://ptag-info.ikea.com/?ct=sto&cc=169&in=90469021&it=SCO&t=p45&s=q","0",""
+"1637427947310","20 Nov 2021 18:05","QR_CODE","URL","https://me-qr.com/1582186","https://me-qr.com/1582186","0",""
+"1636806733331","13 Nov 2021 13:32","QR_CODE","URL","https://public.car-pass.be/verify/8007-7713-3929","https://public.car-pass.be/verify/8007-7713-3929","0",""
+"1634907782299","22 Oct 2021 15:03","QR_CODE","URL","https://s.truqu.com/V4Y6sg","https://s.truqu.com/V4Y6sg","0",""
+"1632838378178","28 Sep 2021 16:12","QR_CODE","URL","https://hardware.internal.ml6.eu/","https://hardware.internal.ml6.eu/","0",""
+"1632219255991","21 Sep 2021 12:14","QR_CODE","URL","http://www.my-lio.eu/apps/healthbox-3-0","http://www.my-lio.eu/apps/healthbox-3-0","0",""
+"1631360507995","11 Sep 2021 13:41","QR_CODE","URL","https://nordlandsatlas.maps.arcgis.com/apps/webappviewer/index.html?id=fab455cbf6e8441894efd4ccc99a0b8f","https://nordlandsatlas.maps.arcgis.com/apps/webappviewer/index.html?id=fab455cbf6e8441894efd4ccc99a0b8f","0",""
+"1631360434234","11 Sep 2021 13:40","QR_CODE","URL","https://moskenes.kommune.no/reinebringen-donasjon/","https://moskenes.kommune.no/reinebringen-donasjon/","0",""
+"1631117016363","8 Sep 2021 18:03","QR_CODE","URL","https://reg.entrynorway.no/","https://reg.entrynorway.no/","0",""
+"1630409145642","31 Aug 2021 13:25","QR_CODE","URL","http://e.tuya.com/smartlife","http://e.tuya.com/smartlife","0",""
+"1629650916046","22 Aug 2021 18:48","QR_CODE","URL","http://app.jamezz.nl/qr/A11960053","http://app.jamezz.nl/qr/A11960053","0",""
+"1629645281163","22 Aug 2021 17:14","QR_CODE","URL","http://app.jamezz.nl/qr/A11960064","http://app.jamezz.nl/qr/A11960064","0",""
+"1629636003700","22 Aug 2021 14:40","QR_CODE","URL","http://app.jamezz.nl/qr/A303504","http://app.jamezz.nl/qr/A303504","0",""
+"1629310986443","18 Aug 2021 20:23","QR_CODE","URL","https://www.trolmenu.be/index.html","https://www.trolmenu.be/index.html","0",""
+"1628951077082","14 Aug 2021 16:24","QR_CODE","URL","https://yoordi.app/checkin/2019764917159911?twint=02:1848355c9f76428daaff4e6c8938bb29#8ef022c8c910ccc8787cfa5effe82e6048089114#2019764917159911","https://yoordi.app/checkin/2019764917159911?twint=02:1848355c9f76428daaff4e6c8938bb29#8ef022c8c910ccc8787cfa5effe82e6048089114#2019764917159911","0",""
+"1628950668403","14 Aug 2021 16:17","QR_CODE","URL","02:05a48b31-a436-40a8-bfb3-2552b451bbee:#b9cd182e07fc550eb164559c869c37102bb5769e#12273","02:05a48b31-a436-40a8-bfb3-2552b451bbee:#b9cd182e07fc550eb164559c869c37102bb5769e#12273","0",""
+"1628950573002","14 Aug 2021 16:16","QR_CODE","EMAIL","MATMSG:TO:stadtgaertnerei@stadtluzern.ch;SUB:Grünanlage Churchillquai;BODY:;;","stadtgaertnerei@stadtluzern.ch","0",""
+"1628604730290","10 Aug 2021 16:12","QR_CODE","URL","https://youtu.be/iBSVRgOOe_Y
+","https://youtu.be/iBSVRgOOe_Y","0",""
+"1628604479721","10 Aug 2021 16:07","QR_CODE","URL","https://www.youtube.com/watch?v=MtPFspD-VwM&list=PLg2dFdDRRClExD7HdQH2Zk5JiOoHGbKOP&index=2","https://www.youtube.com/watch?v=MtPFspD-VwM&list=PLg2dFdDRRClExD7HdQH2Zk5JiOoHGbKOP&index=2","0",""
